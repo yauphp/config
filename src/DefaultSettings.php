@@ -33,4 +33,3 @@ class DefaultSettings
      */
     public const CONFIG_DIR_PLACE_HOLDER="\${configDir}";
 }
-
