@@ -1,5 +1,5 @@
 <?php
-namespace Yauphp\Config\Internal;
+namespace Yauphp\Config\Impl;
 
 use Yauphp\Config\IObjectFactory;
 use Yauphp\Config\IConfigurable;

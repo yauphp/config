@@ -7,7 +7,7 @@
  *list="true"标签:标记为集合,即所有一级子元素为下标为整数的的数组,其属性标记的值失效.
  */
 
-namespace Yauphp\Config\Internal;
+namespace Yauphp\Config\Impl;
 
 
 /**

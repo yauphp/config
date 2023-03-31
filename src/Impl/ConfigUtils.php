@@ -1,5 +1,5 @@
 <?php
-namespace Yauphp\Config\Internal;
+namespace Yauphp\Config\Impl;
 
 use Yauphp\Config\IConfiguration;
 use Yauphp\Config\DefaultSettings;

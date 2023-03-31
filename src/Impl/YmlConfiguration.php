@@ -1,5 +1,5 @@
 <?php
-namespace Yauphp\Config\Internal;
+namespace Yauphp\Config\Impl;
 
 /**
  * Yaml配置实现

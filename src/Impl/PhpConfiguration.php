@@ -1,5 +1,5 @@
 <?php
-namespace Yauphp\Config\Internal;
+namespace Yauphp\Config\Impl;
 
 /**
  * 从PHP配置文件创建配置实例

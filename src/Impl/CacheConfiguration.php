@@ -1,6 +1,6 @@
 <?php
 
-namespace Yauphp\Config\Internal;
+namespace Yauphp\Config\Impl;
 
 /**
  * 从缓存创建配置实例
