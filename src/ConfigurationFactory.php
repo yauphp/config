@@ -1,10 +1,10 @@
 <?php
 namespace Yauphp\Config;
 
-use Yauphp\Config\Internal\PhpConfiguration;
-use Yauphp\Config\Internal\XmlConfiguration;
-use Yauphp\Config\Internal\YmlConfiguration;
-use Yauphp\Config\Internal\CacheConfiguration;
+use Yauphp\Config\Impl\PhpConfiguration;
+use Yauphp\Config\Impl\XmlConfiguration;
+use Yauphp\Config\Impl\YmlConfiguration;
+use Yauphp\Config\Impl\CacheConfiguration;
 
 /**
  * 配置工厂
